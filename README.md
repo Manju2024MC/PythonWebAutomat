@@ -11,3 +11,9 @@
 -->Openpyxl---csv,excel
 -->Faker Lib (Fake data Genaration)
 
+#Commands to push the code to github
+1.git add .
+2.git commit -m "Folder_Name"
+3.git push
+4.git pull (If you added something og github)\\
+
